@@ -1,9 +1,5 @@
 # QRCode-Generator
 
-Certainly! Here's a README file for your Python script that generates QR codes using the `qrcode` and `matplotlib` libraries. This README is written in Markdown format as well.
-
----
-
 # QR Code Generator
 
 This repository contains a Python script for generating QR codes from user-provided data using the `qrcode` library and displaying them using `matplotlib`.
